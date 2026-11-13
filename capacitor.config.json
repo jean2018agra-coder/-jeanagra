@@ -1,0 +1,7 @@
+{
+  "appId": "com.reinosmisticos.app",
+  "appName": "Reinos Místicos",
+  "webDir": "www",
+  "backgroundColor": "#0e1118",
+  "android": { "allowMixedContent": false }
+}
